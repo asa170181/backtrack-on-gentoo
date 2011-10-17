@@ -7,8 +7,8 @@ EAPI=2
 inherit toolchain-funcs
 
 DESCRIPTION="scan a network for cisco routers with default passwords"
-HOMEPAGE="http://hrabalvojta.borec.cz/hack-src/cisco-scanner/ciscos.c"
-SRC_URI="http://hrabalvojta.borec.cz/hack-src/cisco-scanner/ciscos.c"
+HOMEPAGE="http://backtrack-on-gentoo.googlecode.com/files/ciscos.c"
+SRC_URI="http://backtrack-on-gentoo.googlecode.com/files/ciscos.c"
 
 LICENSE="as-is"
 SLOT="0"
